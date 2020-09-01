@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src="https://at.alicdn.com/t/font_1358396_6brekuw2ciu.js")
+[Link](url) and ![Image](https://at.alicdn.com/t/font_1358396_6brekuw2ciu.js)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
