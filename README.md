@@ -1,3 +1,6 @@
+theme: jekyll-theme-cayman
+title: Welcome to Yuanshuaifeng's homepage!
+description: Feel free to booknark this to keep an eye on my project updates
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yuanshuaifeng1/yuanshuaifeng1.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
