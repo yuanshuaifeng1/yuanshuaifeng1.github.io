@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 
 
-![Image](https://github.com/yuanshuaifeng1/yuanshuaifeng1.github.io/blob/master/images/u%3D2006651127%2C2585315559%26fm%3D26%26gp%3D0.jpg)
+![image](https://github.com/yuanshuaifeng1/yuanshuaifeng1.github.io/blob/master/images/u%3D2006651127%2C2585315559%26fm%3D26%26gp%3D0.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
