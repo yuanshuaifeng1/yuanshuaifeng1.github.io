@@ -6,6 +6,6 @@ You can use the [editor on GitHub](https://github.com/yuanshuaifeng1/yuanshuaife
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-![image](https://github.com/yuanshuaifeng1/yuanshuaifeng1.github.io/blob/master/images/1.png)
+![](https://github.com/yuanshuaifeng1/yuanshuaifeng1.github.io/blob/master/images/1.png)
 
 
